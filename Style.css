@@ -74,3 +74,22 @@ nav{
 .fas fa-search{
     font-size: 26;
 }
+.head
+{
+    text-align: right;
+    margin: auto;
+    margin-top: 20%;
+    position: relative;
+    width: 300px;
+    height: 80px;
+    color:#9c27b0;
+    padding: 0px 10px;
+    font-size:45px;
+  white-space: nowrap ;
+}
+.phone
+{
+    width: 150px;
+    margin: 20px 20px;
+    flex-basis: 30%
+}
